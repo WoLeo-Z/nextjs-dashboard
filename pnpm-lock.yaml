@@ -45,8 +45,8 @@ importers:
         specifier: 3.4.14
         version: 3.4.14
       typescript:
-        specifier: 5.5.2
-        version: 5.5.2
+        specifier: 5.7.2
+        version: 5.7.2
       use-debounce:
         specifier: ^10.0.3
         version: 10.0.3(react@18.3.1)
@@ -953,8 +953,8 @@ packages:
   tslib@2.7.0:
     resolution: {integrity: sha512-gLXCKdN1/j47AiHiOkJN69hJmcbGTHI0ImLmbYLHykhgeN0jVGola9yVjFgzCUklsZQMW55o+dW7IXv3RCXDzA==}
 
-  typescript@5.5.2:
-    resolution: {integrity: sha512-NcRtPEOsPFFWjobJEtfihkLCZCXZt/os3zf8nTxjVH3RvTSxjrCamJpbExGvYOF+tFHc3pA65qpdwPbzjohhew==}
+  typescript@5.7.2:
+    resolution: {integrity: sha512-i5t66RHxDvVN40HfDd1PsEThGNnlMCMT3jMUuoh9/0TaqWevNontacunWyN02LA9/fIbEWlcHZcgTKb9QoaLfg==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -1871,7 +1871,7 @@ snapshots:
 
   tslib@2.7.0: {}
 
-  typescript@5.5.2: {}
+  typescript@5.7.2: {}
 
   undici-types@6.19.8: {}
 
